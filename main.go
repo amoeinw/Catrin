@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "Amoein/Catrin/Catrin/routers"
+	_ "Amoein/Catrin/routers"
 
 	"github.com/astaxie/beego"
 )
